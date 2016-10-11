@@ -1,0 +1,920 @@
+13:21:35,240  INFO Main:10 - ----------------   start   ---------------
+13:21:40,383  INFO Console:42 - zip
+13:21:41,840  INFO Console:88 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\t1.txt, E:\\p1.jpg]
+13:21:41,855  INFO ArchiverImpl:41 - E:\\zipF.zip -link to new zip
+13:21:41,856  INFO ArchiverImpl:49 - link to paking file:  E:\\1.mp4
+13:21:42,723  INFO ArchiverImpl:58 - 1.mp4 packed
+13:21:42,723 TRACE ArchiverImpl:64 - --------
+13:21:42,724  INFO ArchiverImpl:49 - link to paking file:  E:\\1.mp3
+13:21:43,369  INFO ArchiverImpl:58 - 1.mp3 packed
+13:21:43,369 TRACE ArchiverImpl:64 - --------
+13:21:43,369  INFO ArchiverImpl:49 - link to paking file:  E:\\t1.txt
+13:21:43,370  INFO ArchiverImpl:58 - t1.txt packed
+13:21:43,370 TRACE ArchiverImpl:64 - --------
+13:21:43,371  INFO ArchiverImpl:49 - link to paking file:  E:\\p1.jpg
+13:21:43,373  INFO ArchiverImpl:58 - p1.jpg packed
+13:21:43,373 TRACE ArchiverImpl:64 - --------
+13:21:43,375  INFO ArchiverImpl:68 - Archiving ended 
+13:21:43,377  INFO Main:15 - ----------------    end    ---------------
+
+13:21:47,423  INFO Main:10 - ----------------   start   ---------------
+13:21:54,039  INFO Console:47 - unzip
+13:21:54,788  INFO Console:92 - unziping
+13:21:54,792  INFO ArchiverImpl:95 - file 1.mp4 is being unziped
+13:21:55,409  INFO ArchiverImpl:105 - 1.mp4 is unziped
+---
+13:21:55,410  INFO ArchiverImpl:95 - file 1.mp3 is being unziped
+13:21:55,781  INFO ArchiverImpl:105 - 1.mp3 is unziped
+---
+13:21:55,782  INFO ArchiverImpl:95 - file t1.txt is being unziped
+13:21:55,782  INFO ArchiverImpl:105 - t1.txt is unziped
+---
+13:21:55,863  INFO ArchiverImpl:95 - file p1.jpg is being unziped
+13:21:55,872  INFO ArchiverImpl:105 - p1.jpg is unziped
+---
+13:21:55,873  INFO ArchiverImpl:108 - 
+E:\zipF.zip unpacked to E:\\folderToUnzip\\
+13:21:55,874  INFO Main:15 - ----------------    end    ---------------
+
+13:22:08,962  INFO Main:10 - ----------------   start   ---------------
+13:22:10,524  INFO Console:52 - add
+13:22:11,520  INFO Console:96 - completing to add file 
+13:23:09,440  INFO ArchiverImpl:179 - adding file 4.wmv complited
+13:23:09,441  INFO Main:15 - ----------------    end    ---------------
+
+13:23:20,411  INFO Main:10 - ----------------   start   ---------------
+13:23:21,933  INFO Console:57 - show
+13:23:23,140  INFO Console:99 - Show files in zip
+13:23:23,147  INFO Main:15 - ----------------    end    ---------------
+
+13:35:36,663  INFO Main:10 - ----------------   start   ---------------
+13:35:47,736  INFO Console:47 - unzip
+13:35:48,273  INFO Console:92 - unziping
+13:35:48,276  INFO ArchiverImpl:110 - file 1.mp4 is being unziped
+13:35:48,913  INFO ArchiverImpl:121 - 1.mp4 is unziped
+---
+13:35:48,914  INFO ArchiverImpl:110 - file 1.mp3 is being unziped
+13:35:49,323  INFO ArchiverImpl:121 - 1.mp3 is unziped
+---
+13:35:49,323  INFO ArchiverImpl:110 - file t1.txt is being unziped
+13:35:49,324  INFO ArchiverImpl:121 - t1.txt is unziped
+---
+13:35:49,324  INFO ArchiverImpl:110 - file p1.jpg is being unziped
+13:35:49,326  INFO ArchiverImpl:121 - p1.jpg is unziped
+---
+13:35:49,326  INFO ArchiverImpl:110 - file 4.wmv is being unziped
+13:35:50,744  INFO ArchiverImpl:121 - 4.wmv is unziped
+---
+13:35:50,745  INFO ArchiverImpl:124 - E:\zipF.zip unpacked to E:\\folderToUnzip\\
+13:35:50,745  INFO Main:15 - ----------------    end    ---------------
+
+13:39:56,334  INFO Main:10 - ----------------   start   ---------------
+13:39:57,499  INFO Console:42 - zip
+13:40:08,066  INFO Console:88 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+13:40:08,081  INFO ArchiverImpl:90 - E:\\zipF.zip -link to new zip
+13:40:08,082  INFO ArchiverImpl:97 - link to packing file:  E:\\1.mp4
+13:40:08,997  INFO ArchiverImpl:105 - 1.mp4 packed
+13:40:08,997 TRACE ArchiverImpl:106 - --------
+13:40:08,997  INFO ArchiverImpl:97 - link to packing file:  E:\\1.mp3
+13:40:09,586  INFO ArchiverImpl:105 - 1.mp3 packed
+13:40:09,586 TRACE ArchiverImpl:106 - --------
+13:40:09,587  INFO ArchiverImpl:97 - link to packing file:  E:\\p1.jpg
+13:40:09,589  INFO ArchiverImpl:105 - p1.jpg packed
+13:40:09,589 TRACE ArchiverImpl:106 - --------
+13:40:09,589  INFO ArchiverImpl:112 - Archiving ended 
+13:40:09,591  INFO Main:15 - ----------------    end    ---------------
+
+19:40:21,205  INFO Main:10 - ----------------   start   ---------------
+19:40:33,960  INFO Console:42 - zip
+19:40:40,621  INFO Console:88 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+19:40:40,729  INFO ArchiverImpl:38 - E:\\zipF.zip -link to new zip
+19:40:40,730  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp4
+19:40:42,360  INFO ArchiverImpl:53 - 1.mp4 packed
+19:40:42,360 TRACE ArchiverImpl:54 - --------
+19:40:42,360  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp3
+19:40:43,061  INFO ArchiverImpl:53 - 1.mp3 packed
+19:40:43,061 TRACE ArchiverImpl:54 - --------
+19:40:43,061  INFO ArchiverImpl:45 - link to packing file:  E:\\p1.jpg
+19:40:43,078  INFO ArchiverImpl:53 - p1.jpg packed
+19:40:43,078 TRACE ArchiverImpl:54 - --------
+19:40:43,078  INFO ArchiverImpl:60 - Archiving ended 
+19:40:43,080  INFO Main:15 - ----------------    end    ---------------
+
+19:42:30,027  INFO Main:10 - ----------------   start   ---------------
+19:42:31,614  INFO Console:47 - unzip
+19:42:33,087  INFO Console:92 - unziping
+19:42:33,088  INFO ArchiverImpl:71 - created new directory
+19:42:33,193  INFO ArchiverImpl:83 - file 1.mp4 is being unziped
+19:42:34,967  INFO ArchiverImpl:94 - 1.mp4 is unziped
+---
+19:42:34,967  INFO ArchiverImpl:83 - file 1.mp3 is being unziped
+19:42:35,733  INFO ArchiverImpl:94 - 1.mp3 is unziped
+---
+19:42:35,734  INFO ArchiverImpl:83 - file p1.jpg is being unziped
+19:42:35,742  INFO ArchiverImpl:94 - p1.jpg is unziped
+---
+19:42:35,743  INFO ArchiverImpl:97 - E:\zipF.zip unpacked to E:\\folderToUnzip\\
+19:42:35,743  INFO Main:15 - ----------------    end    ---------------
+
+19:43:19,807  INFO Main:10 - ----------------   start   ---------------
+19:43:21,445  INFO Console:52 - add
+19:43:23,613  INFO Console:96 - completing to add file 
+19:44:28,537  INFO ArchiverImpl:241 - adding file 4.wmv complited
+19:44:28,537  INFO Main:15 - ----------------    end    ---------------
+
+19:44:39,995  INFO Main:10 - ----------------   start   ---------------
+19:44:47,436  INFO Main:10 - ----------------   start   ---------------
+19:44:48,766  INFO Console:57 - show
+19:44:50,038  INFO Console:99 - Show files in zip
+19:44:50,061  INFO Main:15 - ----------------    end    ---------------
+
+19:45:47,719 ERROR Console:26 - Not a number
+19:45:47,720 ERROR Console:62 - error in case
+19:45:47,727  INFO Main:15 - ----------------    end    ---------------
+
+12:01:42,009  INFO ArchiverImpl:38 - E:\\zipF.zip -link to new zip
+12:01:42,032  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp4
+12:01:44,579  INFO ArchiverImpl:53 - 1.mp4 packed
+12:01:44,579 TRACE ArchiverImpl:54 - --------
+12:01:44,580  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp3
+12:01:46,337  INFO ArchiverImpl:53 - 1.mp3 packed
+12:01:46,337 TRACE ArchiverImpl:54 - --------
+12:01:46,338  INFO ArchiverImpl:45 - link to packing file:  E:\\p1.jpg
+12:01:46,413  INFO ArchiverImpl:53 - p1.jpg packed
+12:01:46,413 TRACE ArchiverImpl:54 - --------
+12:01:46,414  INFO ArchiverImpl:60 - Archiving ended 
+12:02:58,392  INFO ArchiverImpl:38 - E:\\zipF.zip -link to new zip
+12:02:58,417  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp4
+12:02:59,915  INFO ArchiverImpl:53 - 1.mp4 packed
+12:02:59,915 TRACE ArchiverImpl:54 - --------
+12:02:59,916  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp3
+12:03:00,732  INFO ArchiverImpl:53 - 1.mp3 packed
+12:03:00,732 TRACE ArchiverImpl:54 - --------
+12:03:00,733  INFO ArchiverImpl:45 - link to packing file:  E:\\p1.jpg
+12:03:00,735  INFO ArchiverImpl:53 - p1.jpg packed
+12:03:00,736 TRACE ArchiverImpl:54 - --------
+12:03:00,736  INFO ArchiverImpl:60 - Archiving ended 
+13:09:54,487  INFO ArchiverImpl:38 - E:\\zipF.zip -link to new zip
+13:09:54,497  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp4
+13:09:55,957  INFO ArchiverImpl:53 - 1.mp4 packed
+13:09:55,957 TRACE ArchiverImpl:54 - --------
+13:09:55,958  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp3
+13:09:56,684  INFO ArchiverImpl:53 - 1.mp3 packed
+13:09:56,684 TRACE ArchiverImpl:54 - --------
+13:09:56,684  INFO ArchiverImpl:45 - link to packing file:  E:\\p1.jpg
+13:09:56,687  INFO ArchiverImpl:53 - p1.jpg packed
+13:09:56,688 TRACE ArchiverImpl:54 - --------
+13:09:56,688  INFO ArchiverImpl:60 - Archiving ended 
+13:24:02,978  INFO ArchiverImpl:38 - E:\\zipNew.zip -link to new zip
+13:24:02,987  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp4
+13:24:04,530  INFO ArchiverImpl:53 - 1.mp4 packed
+13:24:04,531 TRACE ArchiverImpl:54 - --------
+13:24:04,532  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp3
+13:24:05,328  INFO ArchiverImpl:53 - 1.mp3 packed
+13:24:05,329 TRACE ArchiverImpl:54 - --------
+13:24:05,329  INFO ArchiverImpl:45 - link to packing file:  E:\\p1.jpg
+13:24:05,332  INFO ArchiverImpl:53 - p1.jpg packed
+13:24:05,333 TRACE ArchiverImpl:54 - --------
+13:24:05,333  INFO ArchiverImpl:60 - Archiving ended 
+15:47:24,138  INFO Main:8 - ----------------   start   ---------------
+15:47:45,391  INFO Main:8 - ----------------   start   ---------------
+15:47:48,333  INFO Console:39 - zip
+15:48:03,287  INFO Console:85 - Objects to add: [E:\\1.mp4]
+15:48:03,320  INFO ArchiverImpl:38 - E:\\zipF.zip -link to new zip
+15:48:03,320  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp4
+15:48:40,840  INFO ArchiverImpl:53 - 1.mp4 packed
+15:48:40,840 TRACE ArchiverImpl:54 - --------
+15:48:40,841  INFO ArchiverImpl:60 - Archiving ended 
+15:48:40,842  INFO Main:13 - ----------------    end    ---------------
+
+15:50:09,777  INFO Main:8 - ----------------   start   ---------------
+15:50:12,194  INFO Console:39 - zip
+15:50:13,492  INFO Console:85 - Objects to add: [E:\\1.mp4]
+15:50:13,519  INFO ArchiverImpl:38 - E:\\zipF.zip -link to new zip
+15:50:13,519  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp4
+15:50:14,579  INFO ArchiverImpl:53 - 1.mp4 packed
+15:50:14,580 TRACE ArchiverImpl:54 - --------
+15:50:14,580  INFO ArchiverImpl:60 - Archiving ended 
+15:50:14,581  INFO Main:13 - ----------------    end    ---------------
+
+15:51:26,123  INFO Main:8 - ----------------   start   ---------------
+15:51:29,993 ERROR Console:24 - Not a number
+15:51:29,994 ERROR Console:59 - error in case
+15:51:29,997  INFO Main:13 - ----------------    end    ---------------
+
+15:51:35,385  INFO Console:39 - zip
+15:51:36,179  INFO Console:85 - Objects to add: [E:\\1.mp4]
+15:51:36,182  INFO ArchiverImpl:38 - E:\\zipF.zip -link to new zip
+15:51:36,182  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp4
+15:52:15,619  INFO Main:8 - ----------------   start   ---------------
+15:52:17,312  INFO Console:39 - zip
+15:52:18,141  INFO Console:85 - Objects to add: [E:\\1.mp4]
+15:52:18,143  INFO ArchiverImpl:38 - E:\\zipF.zip -link to new zip
+15:52:18,143  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp4
+15:52:18,296  INFO ArchiverImpl:55 - 1.mp4 packed
+15:52:18,296 TRACE ArchiverImpl:56 - --------
+15:52:18,297  INFO ArchiverImpl:62 - Archiving ended 
+15:52:18,298  INFO Main:13 - ----------------    end    ---------------
+
+15:53:38,719  INFO Main:8 - ----------------   start   ---------------
+15:53:40,856  INFO Console:39 - zip
+15:54:14,269  INFO Console:85 - Objects to add: [E:\\t1.txt]
+15:54:14,271  INFO ArchiverImpl:38 - E:\\zipF.zip -link to new zip
+15:54:14,271  INFO ArchiverImpl:45 - link to packing file:  E:\\t1.txt
+15:54:14,273  INFO ArchiverImpl:56 - t1.txt packed
+15:54:14,274 TRACE ArchiverImpl:57 - --------
+15:54:14,274  INFO ArchiverImpl:63 - Archiving ended 
+15:54:14,275  INFO Main:13 - ----------------    end    ---------------
+
+15:54:30,028  INFO Main:8 - ----------------   start   ---------------
+15:54:31,648  INFO Console:39 - zip
+15:54:32,467  INFO Console:85 - Objects to add: [E:\\t1.txt]
+15:54:32,469  INFO ArchiverImpl:38 - E:\\zipF.zip -link to new zip
+15:54:32,470  INFO ArchiverImpl:45 - link to packing file:  E:\\t1.txt
+15:54:32,471  INFO ArchiverImpl:56 - t1.txt packed
+15:54:32,471 TRACE ArchiverImpl:57 - --------
+15:54:32,472  INFO ArchiverImpl:63 - Archiving ended 
+15:54:32,474  INFO Main:13 - ----------------    end    ---------------
+
+15:55:27,413  INFO Main:8 - ----------------   start   ---------------
+15:55:29,679  INFO Console:39 - zip
+15:55:42,383  INFO Console:85 - Objects to add: [E:\\t1.txt]
+15:55:42,387  INFO ArchiverImpl:38 - E:\\zipF.zip -link to new zip
+15:55:42,387  INFO ArchiverImpl:45 - link to packing file:  E:\\t1.txt
+15:55:42,429  INFO ArchiverImpl:61 - t1.txt packed
+15:55:42,429 TRACE ArchiverImpl:62 - --------
+15:55:42,429  INFO ArchiverImpl:68 - Archiving ended 
+15:55:42,431  INFO Main:13 - ----------------    end    ---------------
+
+15:56:33,699  INFO Main:8 - ----------------   start   ---------------
+15:56:35,158  INFO Console:39 - zip
+15:56:35,955  INFO Console:85 - Objects to add: [E:\\1.mp4]
+15:56:35,956  INFO ArchiverImpl:38 - E:\\zipF.zip -link to new zip
+15:56:35,957  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp4
+15:56:37,075  INFO ArchiverImpl:61 - 1.mp4 packed
+15:56:37,075 TRACE ArchiverImpl:62 - --------
+15:56:37,076  INFO ArchiverImpl:68 - Archiving ended 
+15:56:37,077  INFO Main:13 - ----------------    end    ---------------
+
+15:58:16,998  INFO Main:8 - ----------------   start   ---------------
+15:58:18,857  INFO Console:39 - zip
+15:58:27,338  INFO Console:85 - Objects to add: [E:\\1.mp4]
+15:58:27,341  INFO ArchiverImpl:87 - E:\\zipF.zip -link to new zip
+15:58:27,342  INFO ArchiverImpl:94 - link to packing file:  E:\\1.mp4
+15:58:28,315  INFO ArchiverImpl:110 - 1.mp4 packed
+15:58:28,315 TRACE ArchiverImpl:111 - --------
+15:58:28,315  INFO ArchiverImpl:117 - Archiving ended 
+15:58:28,316  INFO Main:13 - ----------------    end    ---------------
+
+15:59:05,756  INFO Main:8 - ----------------   start   ---------------
+15:59:06,917  INFO Console:39 - zip
+15:59:07,738  INFO Console:85 - Objects to add: [E:\\1.mp4]
+15:59:07,743  INFO ArchiverImpl:87 - E:\\zipF.zip -link to new zip
+15:59:07,743  INFO ArchiverImpl:94 - link to packing file:  E:\\1.mp4
+15:59:08,748  INFO ArchiverImpl:110 - 1.mp4 packed
+15:59:08,748 TRACE ArchiverImpl:111 - --------
+15:59:08,749  INFO ArchiverImpl:117 - Archiving ended 
+15:59:08,752  INFO Main:13 - ----------------    end    ---------------
+
+15:59:34,205  INFO Main:8 - ----------------   start   ---------------
+15:59:35,869  INFO Console:39 - zip
+15:59:36,977  INFO Console:85 - Objects to add: [E:\\1.mp4]
+15:59:36,979  INFO ArchiverImpl:87 - E:\\zipF.zip -link to new zip
+15:59:36,980  INFO ArchiverImpl:94 - link to packing file:  E:\\1.mp4
+15:59:37,850  INFO ArchiverImpl:110 - 1.mp4 packed
+15:59:37,851 TRACE ArchiverImpl:111 - --------
+15:59:37,851  INFO ArchiverImpl:117 - Archiving ended 
+15:59:37,852  INFO Main:13 - ----------------    end    ---------------
+
+16:01:17,909  INFO Main:8 - ----------------   start   ---------------
+16:01:19,439  INFO Console:39 - zip
+16:01:20,272  INFO Console:85 - Objects to add: [E:\\1.mp4]
+16:01:20,274  INFO ArchiverImpl:38 - E:\\zipF.zip -link to new zip
+16:01:20,274  INFO ArchiverImpl:45 - link to packing file:  E:\\1.mp4
+16:03:40,270  INFO ArchiverImpl:61 - 1.mp4 packed
+16:03:40,270 TRACE ArchiverImpl:62 - --------
+16:03:40,270  INFO ArchiverImpl:68 - Archiving ended 
+16:03:40,272  INFO Main:13 - ----------------    end    ---------------
+
+16:06:08,525  INFO Main:8 - ----------------   start   ---------------
+16:06:10,131  INFO Console:39 - zip
+16:06:11,575  INFO Console:85 - Objects to add: [E:\\1.mp4]
+16:06:11,578  INFO ArchiverImpl:87 - E:\\zipF.zip -link to new zip
+16:06:11,579  INFO ArchiverImpl:94 - link to packing file:  E:\\1.mp4
+16:06:13,046  INFO ArchiverImpl:112 - 1.mp4 packed
+16:06:13,047 TRACE ArchiverImpl:113 - --------
+16:06:13,047  INFO ArchiverImpl:119 - Archiving ended 
+16:06:13,051  INFO Main:13 - ----------------    end    ---------------
+
+16:07:02,066  INFO Main:8 - ----------------   start   ---------------
+16:07:03,599  INFO Console:39 - zip
+16:07:04,045  INFO Console:85 - Objects to add: [E:\\1.mp4]
+16:07:04,048  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+16:07:04,049  INFO ArchiverImpl:95 - link to packing file:  E:\\1.mp4
+16:07:05,807  INFO ArchiverImpl:113 - 1.mp4 packed
+16:07:05,807 TRACE ArchiverImpl:114 - --------
+16:07:05,807  INFO ArchiverImpl:120 - Archiving ended 
+16:07:05,809  INFO Main:13 - ----------------    end    ---------------
+
+16:07:19,938  INFO Main:8 - ----------------   start   ---------------
+16:07:36,149  INFO Main:8 - ----------------   start   ---------------
+16:07:40,686 ERROR Console:24 - Not a number
+16:07:42,330  INFO Console:39 - zip
+16:07:43,086 ERROR Console:75 - Error in link to zip file
+16:07:43,086  INFO Console:85 - Objects to add: []
+16:07:49,693  INFO Main:8 - ----------------   start   ---------------
+16:07:50,820  INFO Console:39 - zip
+16:07:51,678  INFO Console:85 - Objects to add: [E:\\1.mp4]
+16:07:51,682  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+16:07:51,683  INFO ArchiverImpl:95 - link to packing file:  E:\\1.mp4
+16:08:01,024  INFO ArchiverImpl:113 - 1.mp4 packed
+16:08:01,024 TRACE ArchiverImpl:114 - --------
+16:08:01,024  INFO ArchiverImpl:120 - Archiving ended 
+16:08:01,026  INFO Main:13 - ----------------    end    ---------------
+
+16:11:48,017  INFO Main:8 - ----------------   start   ---------------
+16:11:49,816  INFO Console:39 - zip
+16:11:51,020  INFO Console:85 - Objects to add: [E:\\1.mp4]
+16:11:51,025  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+16:11:51,025  INFO ArchiverImpl:95 - link to packing file:  E:\\1.mp4
+16:12:11,229  INFO ArchiverImpl:113 - 1.mp4 packed
+16:12:11,230 TRACE ArchiverImpl:114 - --------
+16:12:11,231  INFO ArchiverImpl:120 - Archiving ended 
+16:12:11,233  INFO Main:13 - ----------------    end    ---------------
+
+16:13:21,877  INFO Main:8 - ----------------   start   ---------------
+16:13:23,849  INFO Console:39 - zip
+16:13:24,491  INFO Console:85 - Objects to add: [E:\\1.mp4]
+16:13:24,494  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+16:13:24,495  INFO ArchiverImpl:95 - link to packing file:  E:\\1.mp4
+16:13:50,680  INFO ArchiverImpl:113 - 1.mp4 packed
+16:13:50,680 TRACE ArchiverImpl:114 - --------
+16:13:50,681  INFO ArchiverImpl:120 - Archiving ended 
+16:13:50,683  INFO Main:13 - ----------------    end    ---------------
+
+16:14:52,096  INFO Main:8 - ----------------   start   ---------------
+16:14:53,558  INFO Console:39 - zip
+16:14:54,285  INFO Console:85 - Objects to add: [E:\\1.mp4]
+16:14:54,290  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+16:14:54,290  INFO ArchiverImpl:95 - link to packing file:  E:\\1.mp4
+18:15:46,421  INFO Main:8 - ----------------   start   ---------------
+18:15:56,490  INFO Console:39 - zip
+18:16:01,930  INFO Console:85 - Objects to add: [E:\\1.mp4]
+18:16:01,994  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:16:01,995  INFO ArchiverImpl:95 - link to packing file:  E:\\1.mp4
+18:17:51,742  INFO Main:8 - ----------------   start   ---------------
+18:17:54,348  INFO Console:39 - zip
+18:18:04,154  INFO Console:85 - Objects to add: [E:\\1.mp4]
+18:18:04,157  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:18:04,157  INFO ArchiverImpl:95 - link to packing file:  E:\\1.mp4
+18:19:08,994  INFO Main:8 - ----------------   start   ---------------
+18:19:11,570  INFO Console:39 - zip
+18:19:12,508  INFO Console:85 - Objects to add: [E:\\1.mp4]
+18:19:12,509  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:19:12,509  INFO ArchiverImpl:95 - link to packing file:  E:\\1.mp4
+18:22:18,120  INFO Main:8 - ----------------   start   ---------------
+18:22:19,912  INFO Console:39 - zip
+18:22:27,133  INFO Console:85 - Objects to add: [E:\\1.mp4]
+18:22:27,134  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:22:27,136  INFO ArchiverImpl:95 - link to packing file:  E:\\1.mp4
+18:22:45,605  INFO Main:8 - ----------------   start   ---------------
+18:22:47,112  INFO Console:39 - zip
+18:22:48,292  INFO Console:85 - Objects to add: [E:\\1.mp4]
+18:22:48,294  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:22:48,294  INFO ArchiverImpl:95 - link to packing file:  E:\\1.mp4
+18:23:14,971  INFO ArchiverImpl:107 - 1.mp4 packed
+18:23:14,971 TRACE ArchiverImpl:108 - --------
+18:23:14,973  INFO ArchiverImpl:116 - Archiving ended 
+18:23:14,973  INFO Main:13 - ----------------    end    ---------------
+
+18:25:05,631  INFO Main:8 - ----------------   start   ---------------
+18:25:07,527  INFO Console:39 - zip
+18:25:08,212  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\2.mp4, E:\\3.mp4]
+18:25:08,215  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:25:08,215  INFO ArchiverImpl:95 - link to packing file:  E:\\1.mp4
+18:25:34,455  INFO ArchiverImpl:105 - 1.mp4 packed
+18:25:34,455 TRACE ArchiverImpl:106 - --------
+18:25:34,457  INFO ArchiverImpl:95 - link to packing file:  E:\\2.mp4
+18:25:34,458 ERROR ArchiverImpl:116 - Error in zip-m : IOex
+18:25:34,458  INFO Main:13 - ----------------    end    ---------------
+
+18:25:56,929  INFO Main:8 - ----------------   start   ---------------
+18:25:58,247  INFO Console:39 - zip
+18:25:59,403  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+18:25:59,407  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:25:59,407  INFO ArchiverImpl:95 - link to packing file:  E:\\1.mp4
+18:26:27,440  INFO ArchiverImpl:105 - 1.mp4 packed
+18:26:27,440 TRACE ArchiverImpl:106 - --------
+18:26:27,442  INFO ArchiverImpl:95 - link to packing file:  E:\\1.mp3
+18:26:27,442 ERROR ArchiverImpl:116 - Error in zip-m : IOex
+18:26:27,443  INFO Main:13 - ----------------    end    ---------------
+
+18:27:09,126  INFO Main:8 - ----------------   start   ---------------
+18:27:10,847  INFO Console:39 - zip
+18:27:22,405  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+18:27:22,407  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:27:22,407  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp4
+18:27:47,532  INFO ArchiverImpl:102 - 1.mp4 packed
+18:27:47,532 TRACE ArchiverImpl:103 - --------
+18:27:47,534  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp3
+18:27:47,534 ERROR ArchiverImpl:112 - Error in zip-m : IOex
+18:27:47,534  INFO Main:13 - ----------------    end    ---------------
+
+18:28:39,100  INFO Main:8 - ----------------   start   ---------------
+18:28:42,005  INFO Console:39 - zip
+18:28:42,683 ERROR Console:75 - Error in link to zip file
+18:28:42,683  INFO Console:85 - Objects to add: [zentry, =, new, ZipEntry(meth.nameForZipEntry(path));]
+18:28:47,883  INFO Main:8 - ----------------   start   ---------------
+18:28:48,841  INFO Console:39 - zip
+18:28:49,321  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+18:28:49,343  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:28:49,343  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp4
+18:29:17,786  INFO ArchiverImpl:103 - 1.mp4 packed
+18:29:17,786 TRACE ArchiverImpl:104 - --------
+18:29:17,788  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp3
+18:29:17,788 ERROR ArchiverImpl:113 - Error in zip-m : IOex
+18:29:17,788  INFO Main:13 - ----------------    end    ---------------
+
+18:31:35,813  INFO Main:8 - ----------------   start   ---------------
+18:31:37,060  INFO Console:39 - zip
+18:31:37,562  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+18:31:37,565  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:31:37,565  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp4
+18:34:20,396  INFO Main:8 - ----------------   start   ---------------
+18:34:22,109  INFO Console:39 - zip
+18:34:22,551  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+18:34:22,553  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:34:22,553  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp4
+18:34:49,675  INFO Main:8 - ----------------   start   ---------------
+18:34:51,013  INFO Console:39 - zip
+18:34:51,626  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+18:34:51,628  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:34:51,628  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp4
+18:35:16,127  INFO ArchiverImpl:104 - 1.mp4 packed
+18:35:16,128 TRACE ArchiverImpl:105 - --------
+18:35:16,129  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp3
+18:35:16,129 ERROR ArchiverImpl:114 - Error in zip-m : IOex
+18:35:16,129  INFO Main:13 - ----------------    end    ---------------
+
+18:36:14,393  INFO Main:8 - ----------------   start   ---------------
+18:36:16,258  INFO Console:39 - zip
+18:36:16,990  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+18:36:17,010  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:36:17,010  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp4
+18:36:42,754  INFO ArchiverImpl:102 - 1.mp4 packed
+18:36:42,755 TRACE ArchiverImpl:103 - --------
+18:36:42,757  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp3
+18:36:42,757 ERROR ArchiverImpl:112 - Error in zip-m : IOex
+18:36:42,757  INFO Main:13 - ----------------    end    ---------------
+
+18:38:51,071  INFO Main:8 - ----------------   start   ---------------
+18:38:52,657  INFO Console:39 - zip
+18:39:01,117  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+18:39:01,124  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:39:01,124  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp4
+18:39:26,416  INFO ArchiverImpl:102 - 1.mp4 packed
+18:39:26,416 TRACE ArchiverImpl:103 - --------
+18:39:26,416  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp3
+18:39:44,112  INFO ArchiverImpl:102 - 1.mp3 packed
+18:39:44,112 TRACE ArchiverImpl:103 - --------
+18:39:44,112  INFO ArchiverImpl:93 - link to packing file:  E:\\p1.jpg
+18:39:44,234  INFO ArchiverImpl:102 - p1.jpg packed
+18:39:44,234 TRACE ArchiverImpl:103 - --------
+18:39:44,235  INFO ArchiverImpl:110 - Archiving ended 
+18:39:44,237  INFO Main:13 - ----------------    end    ---------------
+
+18:41:36,913  INFO Main:8 - ----------------   start   ---------------
+18:41:39,112  INFO Console:39 - zip
+18:41:40,228  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+18:41:40,232  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:41:40,233  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp4
+18:42:06,683  INFO ArchiverImpl:102 - 1.mp4 packed
+18:42:06,683 TRACE ArchiverImpl:103 - --------
+18:42:06,683  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp3
+18:42:50,442  INFO Main:8 - ----------------   start   ---------------
+18:42:51,408  INFO Console:39 - zip
+18:42:51,910  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+18:42:51,914  INFO ArchiverImpl:88 - E:\\zipF.zip -link to new zip
+18:42:51,915  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp4
+18:43:18,241  INFO ArchiverImpl:102 - 1.mp4 packed
+18:43:18,242 TRACE ArchiverImpl:103 - --------
+18:43:18,243  INFO ArchiverImpl:93 - link to packing file:  E:\\1.mp3
+18:43:18,243 ERROR ArchiverImpl:113 - Error in zip-m : IOex
+18:43:18,244  INFO Main:13 - ----------------    end    ---------------
+
+18:44:39,346  INFO Main:8 - ----------------   start   ---------------
+18:44:40,729  INFO Console:39 - zip
+18:44:41,370 ERROR Console:75 - Error in link to zip file
+18:44:41,371  INFO Console:85 - Objects to add: []
+18:44:44,773  INFO Main:8 - ----------------   start   ---------------
+18:44:48,411  INFO Console:39 - zip
+18:44:48,743  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+18:44:48,746  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+18:44:48,747  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp4
+18:46:41,431  INFO Main:8 - ----------------   start   ---------------
+18:46:50,652  INFO Main:8 - ----------------   start   ---------------
+18:46:53,102  INFO Console:39 - zip
+18:46:53,898  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+18:46:53,901  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+18:46:53,902  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp4
+18:47:43,731  INFO ArchiverImpl:155 - 1.mp4 packed
+18:47:43,732 TRACE ArchiverImpl:156 - --------
+18:47:43,733  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp3
+18:48:17,869  INFO ArchiverImpl:155 - 1.mp3 packed
+18:48:17,869 TRACE ArchiverImpl:156 - --------
+18:48:17,869  INFO ArchiverImpl:138 - link to packing file:  E:\\p1.jpg
+18:48:18,024  INFO ArchiverImpl:155 - p1.jpg packed
+18:48:18,025 TRACE ArchiverImpl:156 - --------
+18:48:18,025  INFO ArchiverImpl:162 - Archiving ended 
+18:48:18,029  INFO Main:13 - ----------------    end    ---------------
+
+18:48:42,728 ERROR Console:24 - Not a number
+18:49:15,641  INFO Main:8 - ----------------   start   ---------------
+18:49:28,504  INFO Main:8 - ----------------   start   ---------------
+18:49:30,438  INFO Console:39 - zip
+18:49:42,267  INFO Console:85 - Objects to add: [E:\\1.mp4]
+18:49:42,272  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+18:49:42,273  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp4
+18:50:09,676 ERROR Console:24 - Not a number
+18:50:32,584  INFO Main:8 - ----------------   start   ---------------
+18:50:34,261  INFO Console:39 - zip
+18:50:34,907  INFO Console:85 - Objects to add: [E:\\1.mp4]
+18:50:34,910  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+18:50:34,910  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp4
+18:51:03,227  INFO Main:8 - ----------------   start   ---------------
+18:51:04,965  INFO Console:39 - zip
+18:51:05,608  INFO Console:85 - Objects to add: [E:\\1.mp4]
+18:51:05,611  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+18:51:05,611  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp4
+18:51:53,445  INFO ArchiverImpl:156 - 1.mp4 packed
+18:51:53,446 TRACE ArchiverImpl:157 - --------
+18:51:53,446  INFO ArchiverImpl:163 - Archiving ended 
+18:51:53,448  INFO Main:13 - ----------------    end    ---------------
+
+18:52:42,801  INFO Main:8 - ----------------   start   ---------------
+18:52:44,497  INFO Console:39 - zip
+18:52:45,136  INFO Console:85 - Objects to add: [E:\\1.mp4]
+18:52:45,137  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+18:52:45,138  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp4
+18:53:32,389  INFO ArchiverImpl:156 - 1.mp4 packed
+18:53:32,390 TRACE ArchiverImpl:157 - --------
+18:53:32,390  INFO ArchiverImpl:163 - Archiving ended 
+18:53:32,391  INFO Main:13 - ----------------    end    ---------------
+
+18:54:04,876  INFO Main:8 - ----------------   start   ---------------
+18:54:09,155  INFO Console:39 - zip
+18:54:12,807  INFO Console:85 - Objects to add: [E:\\1.mp3]
+18:54:12,809  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+18:54:12,809  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp3
+18:54:47,279  INFO ArchiverImpl:156 - 1.mp3 packed
+18:54:47,280 TRACE ArchiverImpl:157 - --------
+18:54:47,280  INFO ArchiverImpl:163 - Archiving ended 
+18:54:47,281  INFO Main:13 - ----------------    end    ---------------
+
+18:55:58,174  INFO Main:8 - ----------------   start   ---------------
+18:55:58,607  INFO Console:39 - zip
+18:55:59,317  INFO Console:85 - Objects to add: [E:\\1.mp4]
+18:55:59,319  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+18:55:59,319  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp4
+18:57:51,227  INFO ArchiverImpl:156 - 1.mp4 packed
+18:57:51,228 TRACE ArchiverImpl:157 - --------
+18:57:51,228  INFO ArchiverImpl:163 - Archiving ended 
+18:57:51,229  INFO Main:13 - ----------------    end    ---------------
+
+18:59:28,687  INFO Main:8 - ----------------   start   ---------------
+18:59:29,549  INFO Console:39 - zip
+18:59:33,070  INFO Console:85 - Objects to add: [E:\\1.mp3]
+18:59:33,072  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+18:59:33,073  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp3
+19:01:11,860  INFO ArchiverImpl:150 - 1.mp3 packed
+19:01:11,860 TRACE ArchiverImpl:151 - --------
+19:01:11,860  INFO ArchiverImpl:157 - Archiving ended 
+19:01:11,862  INFO Main:13 - ----------------    end    ---------------
+
+19:02:41,999  INFO Main:8 - ----------------   start   ---------------
+19:02:43,327 ERROR Console:24 - Not a number
+19:02:43,327 ERROR Console:59 - error in case
+19:02:43,332  INFO Main:13 - ----------------    end    ---------------
+
+19:02:45,898  INFO Main:8 - ----------------   start   ---------------
+19:02:47,456  INFO Console:39 - zip
+19:02:56,002  INFO Main:8 - ----------------   start   ---------------
+19:02:59,288  INFO Console:39 - zip
+19:03:05,147  INFO Console:85 - Objects to add: [E:\\t3.txt]
+19:03:05,150  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+19:03:05,150  INFO ArchiverImpl:138 - link to packing file:  E:\\t3.txt
+19:03:30,060  INFO ArchiverImpl:150 - t3.txt packed
+19:03:30,060 TRACE ArchiverImpl:151 - --------
+19:03:30,060  INFO ArchiverImpl:157 - Archiving ended 
+19:03:30,062  INFO Main:13 - ----------------    end    ---------------
+
+19:04:10,305  INFO Main:8 - ----------------   start   ---------------
+19:04:11,558  INFO Console:39 - zip
+19:05:13,123  INFO Main:8 - ----------------   start   ---------------
+19:05:14,690  INFO Console:39 - zip
+19:05:15,603  INFO Console:85 - Objects to add: [E:\\t3.txt]
+19:05:15,605  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+19:05:15,605  INFO ArchiverImpl:138 - link to packing file:  E:\\t3.txt
+19:05:16,175  INFO ArchiverImpl:150 - t3.txt packed
+19:05:16,175 TRACE ArchiverImpl:151 - --------
+19:05:16,176  INFO ArchiverImpl:157 - Archiving ended 
+19:05:16,177  INFO Main:13 - ----------------    end    ---------------
+
+19:08:32,302  INFO Main:8 - ----------------   start   ---------------
+19:08:33,708  INFO Console:39 - zip
+19:08:34,442  INFO Console:85 - Objects to add: [E:\\t3.txt]
+19:08:34,444  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+19:08:34,444  INFO ArchiverImpl:138 - link to packing file:  E:\\t3.txt
+19:08:59,984  INFO ArchiverImpl:150 - t3.txt packed
+19:08:59,984 TRACE ArchiverImpl:151 - --------
+19:08:59,984  INFO ArchiverImpl:157 - Archiving ended 
+19:08:59,985  INFO Main:13 - ----------------    end    ---------------
+
+19:15:15,570  INFO Main:8 - ----------------   start   ---------------
+19:15:17,162  INFO Console:39 - zip
+19:15:17,927  INFO Console:85 - Objects to add: [E:\\t3.txt]
+19:15:17,928  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+19:15:17,929  INFO ArchiverImpl:138 - link to packing file:  E:\\t3.txt
+19:15:21,157  INFO ArchiverImpl:150 - t3.txt packed
+19:15:21,157 TRACE ArchiverImpl:151 - --------
+19:15:21,158  INFO ArchiverImpl:157 - Archiving ended 
+19:15:21,159  INFO Main:13 - ----------------    end    ---------------
+
+19:15:51,719  INFO Main:8 - ----------------   start   ---------------
+19:15:52,963  INFO Console:39 - zip
+19:15:53,445  INFO Console:85 - Objects to add: [E:\\t3.txt]
+19:15:53,447  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+19:15:53,448  INFO ArchiverImpl:138 - link to packing file:  E:\\t3.txt
+19:15:56,512  INFO ArchiverImpl:150 - t3.txt packed
+19:15:56,512 TRACE ArchiverImpl:151 - --------
+19:15:56,512  INFO ArchiverImpl:157 - Archiving ended 
+19:15:56,514  INFO Main:13 - ----------------    end    ---------------
+
+19:18:11,115  INFO Main:8 - ----------------   start   ---------------
+19:18:17,129  INFO Console:39 - zip
+19:18:17,509  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+19:18:17,512  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+19:18:17,512  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp4
+19:18:34,148  INFO ArchiverImpl:150 - 1.mp4 packed
+19:18:34,148 TRACE ArchiverImpl:151 - --------
+19:18:34,149  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp3
+19:18:45,917  INFO ArchiverImpl:150 - 1.mp3 packed
+19:18:45,917 TRACE ArchiverImpl:151 - --------
+19:18:45,918  INFO ArchiverImpl:138 - link to packing file:  E:\\p1.jpg
+19:18:45,982  INFO ArchiverImpl:150 - p1.jpg packed
+19:18:45,983 TRACE ArchiverImpl:151 - --------
+19:18:45,983  INFO ArchiverImpl:157 - Archiving ended 
+19:18:46,097  INFO Main:13 - ----------------    end    ---------------
+
+19:23:44,699  INFO Main:8 - ----------------   start   ---------------
+19:23:46,295  INFO Console:39 - zip
+19:23:47,475  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+19:23:47,479  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+19:23:47,479  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp4
+19:24:20,715  INFO ArchiverImpl:150 - 1.mp4 packed
+19:24:20,715 TRACE ArchiverImpl:151 - --------
+19:24:20,715  INFO ArchiverImpl:138 - link to packing file:  E:\\1.mp3
+19:24:44,041  INFO ArchiverImpl:150 - 1.mp3 packed
+19:24:44,041 TRACE ArchiverImpl:151 - --------
+19:24:44,041  INFO ArchiverImpl:138 - link to packing file:  E:\\p1.jpg
+19:24:44,143  INFO ArchiverImpl:150 - p1.jpg packed
+19:24:44,143 TRACE ArchiverImpl:151 - --------
+19:24:44,144  INFO ArchiverImpl:157 - Archiving ended 
+19:24:44,146  INFO Main:13 - ----------------    end    ---------------
+
+19:30:04,087  INFO Main:8 - ----------------   start   ---------------
+19:30:05,544  INFO Console:39 - zip
+19:30:12,231 ERROR Console:75 - Error in link to zip file
+19:30:12,232  INFO Console:85 - Objects to add: []
+19:30:15,948  INFO Main:8 - ----------------   start   ---------------
+19:30:17,096 ERROR Console:24 - Not a number
+19:30:17,097 ERROR Console:59 - error in case
+19:30:17,104  INFO Main:13 - ----------------    end    ---------------
+
+19:30:19,433  INFO Main:8 - ----------------   start   ---------------
+19:30:20,612  INFO Console:39 - zip
+19:30:21,488  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+19:30:21,492  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+19:30:21,493  INFO ArchiverImpl:137 - link to packing file:  E:\\1.mp4
+19:30:22,272  INFO ArchiverImpl:151 - 1.mp4 packed
+19:30:22,272 TRACE ArchiverImpl:152 - --------
+19:30:22,272  INFO ArchiverImpl:137 - link to packing file:  E:\\1.mp3
+19:30:22,846  INFO ArchiverImpl:151 - 1.mp3 packed
+19:30:22,847 TRACE ArchiverImpl:152 - --------
+19:30:22,847  INFO ArchiverImpl:137 - link to packing file:  E:\\p1.jpg
+19:30:22,848  INFO ArchiverImpl:151 - p1.jpg packed
+19:30:22,849 TRACE ArchiverImpl:152 - --------
+19:30:22,849  INFO ArchiverImpl:158 - Archiving ended 
+19:30:22,851  INFO Main:13 - ----------------    end    ---------------
+
+19:31:53,265  INFO Main:8 - ----------------   start   ---------------
+19:31:54,403  INFO Console:39 - zip
+19:31:55,103  INFO Console:85 - Objects to add: [E:\\1.mp4, E:\\1.mp3, E:\\p1.jpg]
+19:31:55,105  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+19:31:55,105  INFO ArchiverImpl:137 - link to packing file:  E:\\1.mp4
+19:31:55,888  INFO ArchiverImpl:151 - 1.mp4 packed
+19:31:55,889 TRACE ArchiverImpl:152 - --------
+19:31:55,889  INFO ArchiverImpl:137 - link to packing file:  E:\\1.mp3
+19:31:56,456  INFO ArchiverImpl:151 - 1.mp3 packed
+19:31:56,457 TRACE ArchiverImpl:152 - --------
+19:31:56,457  INFO ArchiverImpl:137 - link to packing file:  E:\\p1.jpg
+19:31:56,458  INFO ArchiverImpl:151 - p1.jpg packed
+19:31:56,459 TRACE ArchiverImpl:152 - --------
+19:31:56,459  INFO ArchiverImpl:158 - Archiving ended 
+19:31:56,461  INFO Main:13 - ----------------    end    ---------------
+
+19:39:41,716  INFO Main:8 - ----------------   start   ---------------
+19:39:42,732  INFO Console:39 - zip
+19:39:54,189  INFO Console:85 - Objects to add: [E:\\hm.mp4]
+19:39:54,202  INFO ArchiverImpl:131 - E:\\zipF.zip -link to new zip
+19:39:54,202  INFO ArchiverImpl:137 - link to packing file:  E:\\hm.mp4
+20:09:49,706  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:09:49,770  INFO ArchiverImpl:137 - link to packing file:  E:\\1.mp4
+20:09:51,221  INFO ArchiverImpl:151 - 1.mp4 packed
+20:09:51,222 TRACE ArchiverImpl:152 - --------
+20:09:51,222  INFO ArchiverImpl:137 - link to packing file:  E:\\1.mp3
+20:09:52,357  INFO ArchiverImpl:151 - 1.mp3 packed
+20:09:52,358 TRACE ArchiverImpl:152 - --------
+20:09:52,358  INFO ArchiverImpl:137 - link to packing file:  E:\\p1.jpg
+20:09:52,430  INFO ArchiverImpl:151 - p1.jpg packed
+20:09:52,431 TRACE ArchiverImpl:152 - --------
+20:09:52,431  INFO ArchiverImpl:158 - Archiving ended 
+20:11:49,138  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:11:49,147  INFO ArchiverImpl:137 - link to packing file:  E:\\1.mp3
+20:11:50,170  INFO ArchiverImpl:151 - 1.mp3 packed
+20:11:50,171 TRACE ArchiverImpl:152 - --------
+20:11:50,172  INFO ArchiverImpl:158 - Archiving ended 
+20:13:18,683  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:13:18,694  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+20:13:18,696  INFO ArchiverImpl:151 - t1.txt packed
+20:13:18,696 TRACE ArchiverImpl:152 - --------
+20:13:18,697  INFO ArchiverImpl:158 - Archiving ended 
+20:15:19,749  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:15:19,759  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+20:15:19,761  INFO ArchiverImpl:151 - t1.txt packed
+20:15:19,761 TRACE ArchiverImpl:152 - --------
+20:15:19,762  INFO ArchiverImpl:158 - Archiving ended 
+20:15:50,403  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:15:50,412  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+20:15:50,417  INFO ArchiverImpl:151 - t1.txt packed
+20:15:50,417 TRACE ArchiverImpl:152 - --------
+20:15:50,418  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:15:50,419  INFO ArchiverImpl:151 - t2.txt packed
+20:15:50,420 TRACE ArchiverImpl:152 - --------
+20:15:50,421  INFO ArchiverImpl:137 - link to packing file:  E:\\t3.txt
+20:15:50,495  INFO ArchiverImpl:151 - t3.txt packed
+20:15:50,496 TRACE ArchiverImpl:152 - --------
+20:15:50,496  INFO ArchiverImpl:158 - Archiving ended 
+20:16:05,629  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:16:05,640  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+20:16:05,641  INFO ArchiverImpl:151 - t1.txt packed
+20:16:05,642 TRACE ArchiverImpl:152 - --------
+20:16:05,642  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:16:05,644  INFO ArchiverImpl:151 - t2.txt packed
+20:16:05,644 TRACE ArchiverImpl:152 - --------
+20:16:05,645  INFO ArchiverImpl:158 - Archiving ended 
+20:16:15,885  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:16:15,892  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+20:16:15,894  INFO ArchiverImpl:151 - t1.txt packed
+20:16:15,894 TRACE ArchiverImpl:152 - --------
+20:16:15,895  INFO ArchiverImpl:137 - link to packing file:  E:\\t3.txt
+20:16:15,958  INFO ArchiverImpl:151 - t3.txt packed
+20:16:15,959 TRACE ArchiverImpl:152 - --------
+20:16:15,959  INFO ArchiverImpl:158 - Archiving ended 
+20:17:52,885  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:17:52,897  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+20:17:52,899  INFO ArchiverImpl:151 - t1.txt packed
+20:17:52,900 TRACE ArchiverImpl:152 - --------
+20:17:52,900  INFO ArchiverImpl:137 - link to packing file:  E:\\t3.txt
+20:17:52,968  INFO ArchiverImpl:151 - t3.txt packed
+20:17:52,969 TRACE ArchiverImpl:152 - --------
+20:17:52,969  INFO ArchiverImpl:158 - Archiving ended 
+20:18:11,842  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:18:11,891  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+20:18:11,893  INFO ArchiverImpl:151 - t1.txt packed
+20:18:11,893 TRACE ArchiverImpl:152 - --------
+20:18:11,894  INFO ArchiverImpl:137 - link to packing file:  E:\\t3.txt
+20:18:11,984  INFO ArchiverImpl:151 - t3.txt packed
+20:18:11,984 TRACE ArchiverImpl:152 - --------
+20:18:11,985  INFO ArchiverImpl:158 - Archiving ended 
+20:33:53,706  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:33:53,716  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+20:33:53,719  INFO ArchiverImpl:151 - t1.txt packed
+20:33:53,719 TRACE ArchiverImpl:152 - --------
+20:33:53,720  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:33:53,722  INFO ArchiverImpl:151 - t2.txt packed
+20:33:53,723 TRACE ArchiverImpl:152 - --------
+20:33:53,723  INFO ArchiverImpl:158 - Archiving ended 
+20:37:38,820  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:37:38,827  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+20:37:38,829  INFO ArchiverImpl:151 - t1.txt packed
+20:37:38,830 TRACE ArchiverImpl:152 - --------
+20:37:38,830  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:37:38,832  INFO ArchiverImpl:151 - t2.txt packed
+20:37:38,833 TRACE ArchiverImpl:152 - --------
+20:37:38,833  INFO ArchiverImpl:158 - Archiving ended 
+20:38:29,587  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:38:29,596  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+20:38:29,598  INFO ArchiverImpl:151 - t1.txt packed
+20:38:29,599 TRACE ArchiverImpl:152 - --------
+20:38:29,599  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:38:29,602  INFO ArchiverImpl:151 - t2.txt packed
+20:38:29,602 TRACE ArchiverImpl:152 - --------
+20:38:29,604  INFO ArchiverImpl:137 - link to packing file:  E:\\t3.txt
+20:38:29,703  INFO ArchiverImpl:151 - t3.txt packed
+20:38:29,704 TRACE ArchiverImpl:152 - --------
+20:38:29,704  INFO ArchiverImpl:158 - Archiving ended 
+20:39:28,146  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:39:28,154  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+20:39:28,156  INFO ArchiverImpl:151 - t1.txt packed
+20:39:28,156 TRACE ArchiverImpl:152 - --------
+20:39:28,157  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:39:28,158  INFO ArchiverImpl:151 - t2.txt packed
+20:39:28,158 TRACE ArchiverImpl:152 - --------
+20:39:28,159  INFO ArchiverImpl:137 - link to packing file:  E:\\t3.txt
+20:39:28,221  INFO ArchiverImpl:151 - t3.txt packed
+20:39:28,222 TRACE ArchiverImpl:152 - --------
+20:39:28,222  INFO ArchiverImpl:158 - Archiving ended 
+20:39:59,377  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:39:59,387  INFO ArchiverImpl:137 - link to packing file:  E:\\1.mp3
+20:40:00,175  INFO ArchiverImpl:151 - 1.mp3 packed
+20:40:00,175 TRACE ArchiverImpl:152 - --------
+20:40:00,176  INFO ArchiverImpl:158 - Archiving ended 
+20:40:52,433  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:40:52,442  INFO ArchiverImpl:137 - link to packing file:  E:\\p1.jpg
+20:40:52,445  INFO ArchiverImpl:151 - p1.jpg packed
+20:40:52,446 TRACE ArchiverImpl:152 - --------
+20:40:52,446  INFO ArchiverImpl:158 - Archiving ended 
+20:41:57,093  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:41:57,101  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:41:57,102  INFO ArchiverImpl:151 - t2.txt packed
+20:41:57,103 TRACE ArchiverImpl:152 - --------
+20:41:57,103  INFO ArchiverImpl:158 - Archiving ended 
+20:43:09,084  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:43:09,093  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:43:09,095  INFO ArchiverImpl:151 - t2.txt packed
+20:43:09,095 TRACE ArchiverImpl:152 - --------
+20:43:09,096  INFO ArchiverImpl:158 - Archiving ended 
+20:44:45,916  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:44:45,928  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:44:45,931  INFO ArchiverImpl:151 - t2.txt packed
+20:44:45,932 TRACE ArchiverImpl:152 - --------
+20:44:45,932  INFO ArchiverImpl:158 - Archiving ended 
+20:45:17,724  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:45:17,734  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:45:17,736  INFO ArchiverImpl:151 - t2.txt packed
+20:45:17,736 TRACE ArchiverImpl:152 - --------
+20:45:17,737  INFO ArchiverImpl:158 - Archiving ended 
+20:46:45,061  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:46:45,070  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:46:45,072  INFO ArchiverImpl:151 - t2.txt packed
+20:46:45,073 TRACE ArchiverImpl:152 - --------
+20:46:45,073  INFO ArchiverImpl:158 - Archiving ended 
+20:48:00,326  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:48:00,334  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:48:00,336  INFO ArchiverImpl:151 - t2.txt packed
+20:48:00,337 TRACE ArchiverImpl:152 - --------
+20:48:00,337  INFO ArchiverImpl:158 - Archiving ended 
+20:48:39,658  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:48:39,668  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:48:39,670  INFO ArchiverImpl:151 - t2.txt packed
+20:48:39,670 TRACE ArchiverImpl:152 - --------
+20:48:39,671  INFO ArchiverImpl:158 - Archiving ended 
+20:48:55,830  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:48:55,840  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+20:48:55,842  INFO ArchiverImpl:151 - t1.txt packed
+20:48:55,843 TRACE ArchiverImpl:152 - --------
+20:48:55,843  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:48:55,844  INFO ArchiverImpl:151 - t2.txt packed
+20:48:55,845 TRACE ArchiverImpl:152 - --------
+20:48:55,845  INFO ArchiverImpl:158 - Archiving ended 
+20:49:03,619  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+20:49:03,632  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+20:49:03,634  INFO ArchiverImpl:151 - t1.txt packed
+20:49:03,635 TRACE ArchiverImpl:152 - --------
+20:49:03,635  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+20:49:03,637  INFO ArchiverImpl:151 - t2.txt packed
+20:49:03,637 TRACE ArchiverImpl:152 - --------
+20:49:03,638  INFO ArchiverImpl:137 - link to packing file:  E:\\t3.txt
+20:49:03,731  INFO ArchiverImpl:151 - t3.txt packed
+20:49:03,732 TRACE ArchiverImpl:152 - --------
+20:49:03,732  INFO ArchiverImpl:158 - Archiving ended 
+21:24:59,400  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+21:24:59,406  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+21:24:59,408  INFO ArchiverImpl:151 - t1.txt packed
+21:24:59,408 TRACE ArchiverImpl:152 - --------
+21:24:59,409  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+21:24:59,410  INFO ArchiverImpl:151 - t2.txt packed
+21:24:59,411 TRACE ArchiverImpl:152 - --------
+21:24:59,411  INFO ArchiverImpl:158 - Archiving ended 
+21:25:13,303  INFO ArchiverImpl:131 - E:\\zipNew.zip -link to new zip
+21:25:13,312  INFO ArchiverImpl:137 - link to packing file:  E:\\t1.txt
+21:25:13,315  INFO ArchiverImpl:151 - t1.txt packed
+21:25:13,315 TRACE ArchiverImpl:152 - --------
+21:25:13,316  INFO ArchiverImpl:137 - link to packing file:  E:\\t2.txt
+21:25:13,317  INFO ArchiverImpl:151 - t2.txt packed
+21:25:13,317 TRACE ArchiverImpl:152 - --------
+21:25:13,317  INFO ArchiverImpl:137 - link to packing file:  E:\\t3.txt
+21:25:13,382  INFO ArchiverImpl:151 - t3.txt packed
+21:25:13,382 TRACE ArchiverImpl:152 - --------
+21:25:13,382  INFO ArchiverImpl:158 - Archiving ended 
